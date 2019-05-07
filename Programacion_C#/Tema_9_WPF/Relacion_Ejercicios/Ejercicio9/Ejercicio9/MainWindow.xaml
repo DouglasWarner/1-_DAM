@@ -4,11 +4,13 @@
         Title="Ejercicio9" Height="350" Width="752" Background="#FFF7E2D3">
     <Grid>
 
-        <GroupBox Header="Dado" HorizontalAlignment="Left" Margin="30,31,0,0" VerticalAlignment="Top" Height="172" Width="192" BorderBrush="#FF818181"/>
+        <GroupBox Header="Dado" HorizontalAlignment="Left" Margin="30,31,0,0" VerticalAlignment="Top" Height="172" Width="192" BorderBrush="#FF818181">
+            <Image Name="imgDado" Source="./Dados/Dado_1.png"/>
+        </GroupBox>
         <Button Name="btnAutomatico" Content="Automático" HorizontalAlignment="Left" Margin="30,230,0,0" VerticalAlignment="Top" Width="94" Height="23" Click="btnAutomatico_Click"/>
         <Label Content="Nº de tiradas: " HorizontalAlignment="Left" Margin="163,227,0,0" VerticalAlignment="Top" Width="87"/>
         <TextBox Name="tbxNumeroTirar" HorizontalAlignment="Left" Height="23" Margin="255,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="63"/>
-        <CheckBox Name="chbxSimular" Content="Simular" HorizontalAlignment="Left" Margin="255,152,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="chbxSimular" Content="Simular" HorizontalAlignment="Left" Margin="255,152,0,0" VerticalAlignment="Top" Checked="chbxSimular_Checked"/>
         <Button Name="btnTirar" Content="_Tirar" HorizontalAlignment="Left" Margin="255,72,0,0" VerticalAlignment="Top" Width="93" Click="btnTirar_Click"/>
         <Label Content="Resultados" HorizontalAlignment="Left" Margin="413,66,0,0" VerticalAlignment="Top" Width="111"/>
         <Label Content="Estadística" HorizontalAlignment="Left" Margin="579,66,0,0" VerticalAlignment="Top" Width="110"/>

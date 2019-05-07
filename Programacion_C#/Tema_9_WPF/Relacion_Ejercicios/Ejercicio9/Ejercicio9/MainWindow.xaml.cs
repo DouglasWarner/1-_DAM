@@ -23,15 +23,28 @@ namespace Ejercicio9
         private int totaltiradas = 0;
         private List<int> dados = new List<int>();
         private Random rnd = new Random();
-        private int indice = 0;
         private int[] resultado = new int[7];
         private int aleatorio;
+        private BitmapImage[] _imagenes = new BitmapImage[7];
 
         public MainWindow()
         {
             InitializeComponent();
+            Inicizaliza();
         }
 
+        void Inicizaliza()
+        {
+            string _ruta = string.Empty;
+            Uri _url = null;
+
+            for (int i = 1; i < _imagenes.Length; i++)
+            {
+                _ruta = @".\Dados\Dado_" + (i).ToString() + ".png";
+                _url = new Uri(_ruta, UriKind.Relative);
+                _imagenes[i] = new BitmapImage(_url);
+            }
+        }
         void TirarDado(int nTiradas)
         {
             totaltiradas += nTiradas;
@@ -55,6 +68,8 @@ namespace Ejercicio9
 
             for (int i = 1; i < resultado.Length; i++)
             {
+                if (chbxSimular.IsChecked.Value)
+                    imgDado.Source = _imagenes[aleatorio];
                 txbResultado.Text += i + " -> " + ContarDados()[i] + "\n";
             }
         }
@@ -106,6 +121,11 @@ namespace Ejercicio9
             TirarDado(aux);
             tbxTotalTiradas.Text = totaltiradas.ToString();
             MostrarEstadisticas();
+        }
+
+        private void chbxSimular_Checked(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }
