@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="Ejercicio5.xsl"?>
+
+<Bailes>
+    <baile id="1">
+        <nombre>tango</nombre>
+        <precio cuota="mensual" moneda="euro">27</precio>
+        <plazas>20</plazas>
+        <comienzo>2011/1/1</comienzo>
+        <fin>1/2/2011</fin>
+        <profesor>Roberto García</profesor>
+        <sala>1</sala>
+    </baile>
+    
+    <baile id="2">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>2011/2/5</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    
+    <baile id="3">
+        <nombre>Cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>10</plazas>
+        <comienzo>2011/2/20</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>2</sala>
+    </baile>
+    
+    <baile id="4">
+        <nombre>Che</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>2011/2/1</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    
+    <baile id="5">
+        <nombre>Chi</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>7</plazas>
+        <comienzo>2014/2/1</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    <baile id="6">
+        <nombre>Cho</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>2011/5/1</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    <baile id="7">
+        <nombre>Chu</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>3</plazas>
+        <comienzo>2010/2/1</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>2</sala>
+    </baile>
+    <baile id="8">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>2011/2/1</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    <baile id="9">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>2011/2/1</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    <baile id="10">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>2011/2/1</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>2</sala>
+    </baile>
+    
+</Bailes>
