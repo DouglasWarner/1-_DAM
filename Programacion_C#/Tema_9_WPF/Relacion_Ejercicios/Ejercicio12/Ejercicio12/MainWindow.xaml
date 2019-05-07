@@ -1,0 +1,18 @@
+﻿<Window x:Class="Ejercicio12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ejercicio12" Height="350" Width="525">
+    <Grid>
+        <Rectangle Name="stpColor" HorizontalAlignment="Left" Height="158" Margin="10,10,0,0" VerticalAlignment="Top" Width="497" Fill="{Binding ElementName=sldRojo, Path=Value}"/>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Bottom" Margin="0,0,440,0">
+            <Label Content="Rojo" Margin="10,10"/>
+            <Label Content="Verde" Margin="10,10"/>
+            <Label Content="Azul" Margin="10,10"/>
+        </StackPanel>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Bottom" Margin="66,0,10,0">
+            <Slider Name="sldRojo" Orientation="Horizontal" Margin="10,15" Minimum="0" Maximum="255" ValueChanged="sldRojo_ValueChanged" IsMoveToPointEnabled="True"/>
+            <Slider Name="sldVerde" Orientation="Horizontal" Margin="10,15" Minimum="0" Maximum="255" ValueChanged="sldVerde_ValueChanged" IsMoveToPointEnabled="True"/>
+            <Slider Name="sldAzul" Orientation="Horizontal" Margin="10,15" Minimum="0" Maximum="255" ValueChanged="sldAzul_ValueChanged" IsMoveToPointEnabled="True"/>
+        </StackPanel>
+    </Grid>
+</Window>

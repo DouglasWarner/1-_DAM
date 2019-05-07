@@ -1,0 +1,13 @@
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe.config
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.exe
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\bin\Debug\Ejercicio7.pdb
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.csprojResolveAssemblyReference.cache
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\MainWindow.baml
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\MainWindow.g.cs
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\App.g.cs
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7_MarkupCompile.cache
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.g.resources
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.Properties.Resources.resources
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.csproj.GenerateResource.Cache
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.exe
+C:\Users\metho\OneDrive\Escritorio\Ejercicio7\Ejercicio7\obj\Debug\Ejercicio7.pdb
