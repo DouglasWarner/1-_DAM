@@ -1,0 +1,12 @@
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio12\R8_Ejercicio12\bin\Debug\R8_Ejercicio12.exe.config
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio12\R8_Ejercicio12\obj\Debug\R8_Ejercicio12.csprojResolveAssemblyReference.cache
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio12\R8_Ejercicio12\bin\Debug\R8_Ejercicio12.exe
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio12\R8_Ejercicio12\bin\Debug\R8_Ejercicio12.pdb
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio12\R8_Ejercicio12\obj\Debug\R8_Ejercicio12.exe
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio12\R8_Ejercicio12\obj\Debug\R8_Ejercicio12.pdb
+C:\Users\metho\OneDrive\Escritorio\PROGR\R8_Jurado_Douglas\R8_Ejercicio12\R8_Ejercicio12\bin\Debug\R8_Ejercicio12.exe.config
+C:\Users\metho\OneDrive\Escritorio\PROGR\R8_Jurado_Douglas\R8_Ejercicio12\R8_Ejercicio12\obj\Debug\R8_Ejercicio12.exe
+C:\Users\metho\OneDrive\Escritorio\PROGR\R8_Jurado_Douglas\R8_Ejercicio12\R8_Ejercicio12\obj\Debug\R8_Ejercicio12.pdb
+C:\Users\metho\OneDrive\Escritorio\PROGR\R8_Jurado_Douglas\R8_Ejercicio12\R8_Ejercicio12\bin\Debug\R8_Ejercicio12.exe
+C:\Users\metho\OneDrive\Escritorio\PROGR\R8_Jurado_Douglas\R8_Ejercicio12\R8_Ejercicio12\bin\Debug\R8_Ejercicio12.pdb
+C:\Users\metho\OneDrive\Escritorio\PROGR\R8_Jurado_Douglas\R8_Ejercicio12\R8_Ejercicio12\obj\Debug\R8_Ejercicio12.csprojResolveAssemblyReference.cache

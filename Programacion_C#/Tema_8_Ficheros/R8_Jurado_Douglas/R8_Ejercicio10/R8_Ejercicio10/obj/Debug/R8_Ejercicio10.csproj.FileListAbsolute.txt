@@ -1,0 +1,5 @@
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio10\R8_Ejercicio10\bin\Debug\R8_Ejercicio10.exe.config
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio10\R8_Ejercicio10\bin\Debug\R8_Ejercicio10.exe
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio10\R8_Ejercicio10\bin\Debug\R8_Ejercicio10.pdb
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio10\R8_Ejercicio10\obj\Debug\R8_Ejercicio10.exe
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio10\R8_Ejercicio10\obj\Debug\R8_Ejercicio10.pdb

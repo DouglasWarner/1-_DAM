@@ -1,0 +1,6 @@
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio11\R8_Ejercicio11\bin\Debug\R8_Ejercicio11.exe.config
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio11\R8_Ejercicio11\bin\Debug\R8_Ejercicio11.exe
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio11\R8_Ejercicio11\bin\Debug\R8_Ejercicio11.pdb
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio11\R8_Ejercicio11\obj\Debug\R8_Ejercicio11.csprojResolveAssemblyReference.cache
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio11\R8_Ejercicio11\obj\Debug\R8_Ejercicio11.exe
+C:\Users\metho\OneDrive\Escritorio\R8_Ejercicio11\R8_Ejercicio11\obj\Debug\R8_Ejercicio11.pdb
