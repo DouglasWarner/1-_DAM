@@ -1,0 +1,13 @@
+D:\Users\alumno1718\Desktop\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+D:\Users\alumno1718\Desktop\Ejercicio11\bin\Debug\Ejercicio11.exe
+D:\Users\alumno1718\Desktop\Ejercicio11\bin\Debug\Ejercicio11.pdb
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\Ejercicio11.csprojResolveAssemblyReference.cache
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\MainWindow.baml
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\MainWindow.g.cs
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\App.g.cs
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\Ejercicio11_MarkupCompile.cache
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\Ejercicio11.g.resources
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\Ejercicio11.Properties.Resources.resources
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\Ejercicio11.csproj.GenerateResource.Cache
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\Ejercicio11.exe
+D:\Users\alumno1718\Desktop\Ejercicio11\obj\Debug\Ejercicio11.pdb
