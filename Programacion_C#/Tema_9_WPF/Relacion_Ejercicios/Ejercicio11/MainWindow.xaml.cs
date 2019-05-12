@@ -20,8 +20,8 @@ namespace Ejercicio11
     /// </summary>
     public partial class MainWindow : Window
     {
-        int[] _tamano = new int[] {10, 12, 16, 20, 24, 28 };
-        FontFamily[] _fuente = new FontFamily[] { new FontFamily("Stencil"), new FontFamily("Comic MS Sans"), new FontFamily("SinSum") };
+        double[] _tamano = new double[] {10, 12, 16, 20, 24, 28 };
+        FontFamily[] _fuente = new FontFamily[] { new FontFamily("Stencil"), new FontFamily("Segoe script"), new FontFamily("SinSum") };
         SolidColorBrush[] _color = new SolidColorBrush[] { Brushes.MediumPurple, Brushes.Red, Brushes.Green };
         SolidColorBrush[] _bgcolor = new SolidColorBrush[] { Brushes.Gray, Brushes.Black, Brushes.White };
         Random rnd = new Random();
@@ -40,20 +40,28 @@ namespace Ejercicio11
             }
             for (int i = 0; i < _color.Length; i++)
             {
-                lbxColor.Items.Add(_color[i].ToString());
+                lbxColor.Items.Add(_color[i]);
             }
             for (int i = 0; i < _tamano.Length; i++)
             {
                 lbxTamaño.Items.Add(_tamano[i]);
             }
+            for (int i = 0; i < _bgcolor.Length; i++)
+            {
+                lbxBgColor.Items.Add(_bgcolor[i]);
+            }
+            lbxFuente.SelectedIndex = 1;
+            lbxColor.SelectedIndex = 1;
+            lbxTamaño.SelectedIndex = 1;
+            lbxBgColor.SelectedIndex = 1;
         }
 
         private void tbkTexto1_PreviewMouseDown(object sender, MouseButtonEventArgs e)
         {
-            tbkTexto1.FontSize = _tamano[rnd.Next(_tamano.Length)];
-            tbkTexto1.FontFamily = _fuente[rnd.Next(_fuente.Length)];
-            tbkTexto1.Foreground = _color[rnd.Next(_color.Length)];
-            tbkTexto1.Background = _bgcolor[rnd.Next(_bgcolor.Length)];
+            tbkTexto1.FontSize = (double)lbxTamaño.SelectedItem;
+            tbkTexto1.FontFamily = (FontFamily)lbxFuente.SelectedItem;
+            tbkTexto1.Foreground = (Brush)lbxColor.SelectedItem;
+            tbkTexto1.Background = (Brush)lbxBgColor.SelectedItem;
         }
     }
 }
