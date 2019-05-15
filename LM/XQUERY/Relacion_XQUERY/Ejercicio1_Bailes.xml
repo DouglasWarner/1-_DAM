@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<Bailes>
+    <baile id="1">
+        <nombre>tango</nombre>
+        <precio cuota="mensual" moneda="euro">27</precio>
+        <plazas>20</plazas>
+        <comienzo>1/1/2011</comienzo>
+        <fin>1/2/2011</fin>
+        <profesor>Roberto García</profesor>
+        <sala>1</sala>
+    </baile>
+    
+    <baile id="2">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>1/2/2011</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    
+    <baile id="3">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>1/2/2011</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>3</sala>
+    </baile>
+    
+    <baile id="4">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>1/2/2011</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>2</sala>
+    </baile>
+    
+    <baile id="5">
+        <nombre>Cha-cha-cha</nombre>
+        <precio cuota="trimestral" moneda="euro">80</precio>
+        <plazas>18</plazas>
+        <comienzo>1/2/2011</comienzo>
+        <fin>31/7/2011</fin>
+        <profesor>Miriam Gutierrez</profesor>
+        <sala>1</sala>
+    </baile>
+    
+    <baile id="6">
+        <nombre>tango</nombre>
+        <precio cuota="mensual" moneda="euro">27</precio>
+        <plazas>20</plazas>
+        <comienzo>1/1/2011</comienzo>
+        <fin>1/2/2011</fin>
+        <profesor>Roberto García</profesor>
+        <sala>2</sala>
+    </baile>
+    
+    <baile id="7">
+        <nombre>tango</nombre>
+        <precio cuota="mensual" moneda="euro">27</precio>
+        <plazas>20</plazas>
+        <comienzo>1/1/2011</comienzo>
+        <fin>1/2/2011</fin>
+        <profesor>Roberto García</profesor>
+        <sala>1</sala>
+    </baile>
+    
+</Bailes>
