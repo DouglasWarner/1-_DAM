@@ -22,11 +22,10 @@ namespace Ejercicio17
     /// </summary>
     public partial class MainWindow : Window
     {
-        double posBarra = 5;
+        double posBarra = 30;
         double posTopPelota = 5;
         double posLeftPelota = 5;
         int pausa = 10030;
-        bool limiteBarra = false;
         bool limitePelotaTop = false;
         bool limitePelotaLeft = false;
         DispatcherTimer tiempo = new DispatcherTimer();
@@ -45,29 +44,7 @@ namespace Ejercicio17
 
         void tiempo_Tick(object sender, EventArgs e)
         {
-            StartBarra();
             StartPelota();
-        }
-
-        bool MensajeStart()
-        {
-            MessageBoxResult resultado = MessageBox.Show("Quieres empezar una partida nueva?", "Menu", MessageBoxButton.YesNo, MessageBoxImage.Information);
-
-            return resultado == MessageBoxResult.Yes;
-        }
-
-        void StartBarra()
-        {
-            if (limiteBarra)
-                Canvas.SetLeft(rtgBarra, Canvas.GetLeft(rtgBarra) - posBarra);
-
-            if (!limiteBarra)
-                Canvas.SetLeft(rtgBarra, Canvas.GetLeft(rtgBarra) + posBarra);
-
-            if (Canvas.GetLeft(rtgBarra) == cvsPrincipal.MaxWidth-rtgBarra.Width)
-                limiteBarra = true;
-            if (Canvas.GetLeft(rtgBarra) == cvsPrincipal.MinWidth)
-                limiteBarra = false;
         }
 
         void StartPelota()
@@ -92,9 +69,22 @@ namespace Ejercicio17
                 limitePelotaTop = false;
         }
 
-        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        private void mniEmpezar_Click(object sender, RoutedEventArgs e)
         {
             tiempo.Start();
+        }
+
+        private void mniParar_Click(object sender, RoutedEventArgs e)
+        {
+            tiempo.Stop();
+        }
+
+        private void mniEmpezar_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Right && Canvas.GetLeft(rtgBarra) < cvsPrincipal.MaxWidth - rtgBarra.Width)
+                Canvas.SetLeft(rtgBarra, Canvas.GetLeft(rtgBarra) + posBarra);
+            if (e.Key == Key.Left && Canvas.GetLeft(rtgBarra) > cvsPrincipal.MinWidth)
+                Canvas.SetLeft(rtgBarra, Canvas.GetLeft(rtgBarra) - posBarra); 
         }
 
         /*if (MensajeStart())

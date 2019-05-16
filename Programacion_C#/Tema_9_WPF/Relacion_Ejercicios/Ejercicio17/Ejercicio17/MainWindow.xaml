@@ -1,13 +1,14 @@
 ﻿<Window x:Class="Ejercicio17.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="389.667" Width="576.333">
+        Title="MainWindow" Height="389.667" Width="576.333" KeyDown="mniEmpezar_KeyDown">
     <Grid>
         <Menu VerticalAlignment="Top">
-            <MenuItem Header="Empezar Partida" Click="MenuItem_Click"/>
+            <MenuItem Name="mniEmpezar" Header="Empezar Partida" Click="mniEmpezar_Click" KeyDown="mniEmpezar_KeyDown"/>
+            <MenuItem Name="mniParar" Header="Parar" Click="mniParar_Click"/>
         </Menu>
         <Canvas Name="cvsPrincipal" Margin="10,20,10,10" Background="Aquamarine" MaxHeight="299" MaxWidth="497" MinHeight="2" MinWidth="2">
-            <Rectangle Name="rtgPelota" Height="30" Width="30" Fill="White" Stroke="Black" Canvas.Top="2" Canvas.Left="2"/>
+            <Rectangle Name="rtgPelota" Height="30" Width="30" Fill="White" Stroke="Black" Canvas.Top="2" Canvas.Left="2" RadiusX="20" RadiusY="20"/>
             <Rectangle Name="rtgBarra" Height="10" Width="90" Fill="White" Canvas.Left="2" Canvas.Bottom="2" Stroke="Black"/>
         </Canvas>
     </Grid>
