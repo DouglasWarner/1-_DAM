@@ -8,4 +8,9 @@ namespace Concesionario
         public string nombre { get; set; }
         public string modelo { get; set; }
     }
+
+    class Ajedrez
+    {
+        public string nSocio { get; set; }
+    }
 }

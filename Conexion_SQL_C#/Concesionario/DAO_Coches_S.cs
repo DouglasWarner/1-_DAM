@@ -42,6 +42,7 @@ namespace Concesionario
         public List<Coche> Select(string sql)
         {
             List<Coche> listado = new List<Coche>();
+            List<Ajedrez> listadoAjedrez = new List<Ajedrez>();
 
             SQLiteCommand cmd = new SQLiteCommand(sql, conexion);
             // Creamos un datareader y recuperamos la consulta ejecutada
@@ -49,6 +50,10 @@ namespace Concesionario
             while (lector.Read())
             {
                 Coche unCoche = new Coche();
+                /*Ajedrez unAjedrez = new Ajedrez();
+                unAjedrez.nSocio = lector["nSocio"].ToString();
+                listadoAjedrez.Add(unAjedrez);*/
+                
                 unCoche.codCoche = lector["codCoche"].ToString();
                 unCoche.cifm = lector["cifm"].ToString();
                 unCoche.nombre = lector["nombre"].ToString();

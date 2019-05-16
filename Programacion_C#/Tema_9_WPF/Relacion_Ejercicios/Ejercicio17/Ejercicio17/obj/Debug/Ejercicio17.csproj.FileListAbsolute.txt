@@ -24,3 +24,6 @@ D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercici
 D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.g.resources
 D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.Properties.Resources.resources
 D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.GenerateResource.Cache
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb
