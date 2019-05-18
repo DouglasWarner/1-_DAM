@@ -4,7 +4,7 @@
     <baile id="1">
         <nombre>tango</nombre>
         <precio cuota="mensual" moneda="euro">27</precio>
-        <plazas>20</plazas>
+        <plazas>15</plazas>
         <comienzo>1/1/2011</comienzo>
         <fin>1/2/2011</fin>
         <profesor>Roberto García</profesor>

@@ -17,10 +17,10 @@ declare function local:Factorial($numero as xs:integer)
   else ($numero * local:Factorial($numero - 1))
 };
 
-let $libros := doc("D:\Users\alumno1718\Desktop\Editor xQuery + biblioteca_xml\biblioteca.xml")//libro
-let $media := avg($libros/precio)
+let $libros := doc("C:\Users\metho\OneDrive\Escritorio\Biblioteca.xml")//libro
+let $media := sum($libros/precio)
 let $n := $libros/precio > 50
-return (local:Saluda(),local:Saluda(10.20),local:Saluda("----------"),local:Factorial(4))
+(: return (local:Saluda(),local:Saluda(10.20),local:Saluda("----------"),local:Factorial(4)):)
 (: Devuelve true o false return <cuenta>{count($n)}</cuenta> :)
-(: return <media>{round($media)}</media> :)
+return <media>{round($media)}</media>
 (: return <salida> {substring(upper-case($resultado/titulo),1,5)} </salida> :)
