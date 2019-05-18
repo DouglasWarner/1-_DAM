@@ -1,24 +1,2 @@
-(: F :)
-<html>
-<head>
-	<title>Ejercicio 1 F</title>
-</head>
-<body>
-	<h1>Ejercicio 1 F</h1>
-	<table border="1">
-		<tr>
-			<th>Profesor</th>
-			<th>Baile</th>
-			<th>Sala</th>
-			<th>Plazas</th>
-		</tr>
-		{for $resultado in doc("D:\Users\alumno1718\Desktop\1º_DAM\LM\XQUERY\Relacion_XQUERY\Ejercicio1_Bailes.xml")//baile
-		return (<tr>
-		 <td>{$resultado/profesor}</td>
-		,<td>{$resultado/nombre}</td>
-		,<td>{$resultado/sala}</td>
-		,<td>{$resultado/plazas}</td>
-		</tr>)}
-	</table>
-</body>
-</html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head><meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1'><title>Ejercicio 1 F</title></head><body><h1>Ejercicio 1 F</h1><table border="1"><tr><th>Profesor</th><th>Baile</th><th>Sala</th><th>Plazas</th></tr><tr><td><profesor>Roberto García</profesor></td><td><nombre>tango</nombre></td><td><sala>1</sala></td><td><plazas>20</plazas></td></tr><tr><td><profesor>Miriam Gutierrez</profesor></td><td><nombre>Cha-cha-cha</nombre></td><td><sala>1</sala></td><td><plazas>18</plazas></td></tr><tr><td><profesor>Miriam Gutierrez</profesor></td><td><nombre>Cha-cha-cha</nombre></td><td><sala>3</sala></td><td><plazas>18</plazas></td></tr><tr><td><profesor>Miriam Gutierrez</profesor></td><td><nombre>Cha-cha-cha</nombre></td><td><sala>2</sala></td><td><plazas>18</plazas></td></tr><tr><td><profesor>Miriam Gutierrez</profesor></td><td><nombre>Cha-cha-cha</nombre></td><td><sala>1</sala></td><td><plazas>18</plazas></td></tr><tr><td><profesor>Roberto García</profesor></td><td><nombre>tango</nombre></td><td><sala>2</sala></td><td><plazas>20</plazas></td></tr><tr><td><profesor>Roberto García</profesor></td><td><nombre>tango</nombre></td><td><sala>1</sala></td><td><plazas>20</plazas></td></tr></table></body></html>
