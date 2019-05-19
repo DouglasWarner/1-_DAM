@@ -27,3 +27,14 @@ D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercici
 C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe.config
 C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.exe
 C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.pdb
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.exe
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\bin\Debug\Ejercicio17.pdb
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\MainWindow.baml
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\MainWindow.g.cs
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\App.g.cs
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17_MarkupCompile.cache
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.g.resources
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.Properties.Resources.resources
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.GenerateResource.cache
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio17\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache

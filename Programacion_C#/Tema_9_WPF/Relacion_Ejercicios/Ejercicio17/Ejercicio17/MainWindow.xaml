@@ -6,6 +6,14 @@
         <Menu VerticalAlignment="Top">
             <MenuItem Name="mniEmpezar" Header="Empezar Partida" Click="mniEmpezar_Click" KeyDown="mniEmpezar_KeyDown"/>
             <MenuItem Name="mniParar" Header="Parar" Click="mniParar_Click"/>
+            <MenuItem Header="Dificultad">
+                <RadioButton Name="rbtnFacil" Content="Facil" IsChecked="True" Checked="RabioButton_Checked"/>
+                <RadioButton Name="rbtnNormal" Content="Normal" Checked="RabioButton_Checked"/>
+                <RadioButton Name="rbtnDificil" Content="Dificil" Checked="RabioButton_Checked"/>
+            </MenuItem>
+            <MenuItem Header="Puntuacion">
+                <ListBox Name="ltbPuntuacion" />
+            </MenuItem>
         </Menu>
         <Canvas Name="cvsPrincipal" Margin="10,20,10,10" Background="Aquamarine" MaxHeight="299" MaxWidth="497" MinHeight="2" MinWidth="2">
             <Rectangle Name="rtgPelota" Height="30" Width="30" Fill="White" Stroke="Black" Canvas.Top="2" Canvas.Left="2" RadiusX="20" RadiusY="20"/>

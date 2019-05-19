@@ -1,0 +1,16 @@
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\bin\Debug\IbanNS.dll
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\bin\Debug\IbanNS.pdb
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\bin\Debug\nunit.framework.dll
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\bin\Debug\nunit.framework.pdb
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\bin\Debug\nunit.framework.xml
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\obj\Debug\IbanNS.csprojAssemblyReference.cache
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\obj\Debug\IbanNS.csproj.CoreCompileInputs.cache
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\obj\Debug\IbanNS.csproj.CopyComplete
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\obj\Debug\IbanNS.dll
+C:\Users\metho\OneDrive\Escritorio\IbanNS\IbanNS\obj\Debug\IbanNS.pdb
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\ENDE\IbanNS\IbanNS\bin\Debug\IbanNS.dll
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\ENDE\IbanNS\IbanNS\bin\Debug\IbanNS.pdb
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\ENDE\IbanNS\IbanNS\obj\Debug\IbanNS.csprojAssemblyReference.cache
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\ENDE\IbanNS\IbanNS\obj\Debug\IbanNS.csproj.CoreCompileInputs.cache
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\ENDE\IbanNS\IbanNS\obj\Debug\IbanNS.dll
+C:\Users\metho\OneDrive\Escritorio\1º_DAM\ENDE\IbanNS\IbanNS\obj\Debug\IbanNS.pdb
