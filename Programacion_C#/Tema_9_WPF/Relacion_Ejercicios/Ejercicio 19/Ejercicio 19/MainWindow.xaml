@@ -1,0 +1,24 @@
+﻿<Window x:Class="Ejercicio_19.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_19"
+        mc:Ignorable="d"
+        Title="Ejercicio 19" Height="{Binding ElementName=stpMatriz, Path=Height}">
+    <Grid>
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Top">
+                <Button Name="btnCrearMatriz" Content="Crear Matriz de botones de : " FontSize="20" Width="283" Height="43" Margin="20,20" Click="BtnCrearMatriz_Click"/>
+                <TextBlock Text="Filas :" FontSize="20" Margin="20,20"/>
+                <ComboBox Name="cbxFilas" FontSize="20" Margin="20,20">
+                </ComboBox>
+                <TextBlock Text="Columnas :" FontSize="20" Margin="20,20"/>
+                <ComboBox Name="cbxColumnas" FontSize="20" Margin="20,20">
+                </ComboBox>
+            </StackPanel>
+            <WrapPanel Name="stpMatriz" Margin="50"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
