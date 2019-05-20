@@ -13,3 +13,17 @@ C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_E
 C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.CoreCompileInputs.cache
 C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.exe
 C:\Users\metho\OneDrive\Escritorio\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.pdb
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.exe.config
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.exe
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.pdb
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csprojResolveAssemblyReference.cache
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\MainWindow.g.cs
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\App.g.cs
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19_MarkupCompile.cache
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19_MarkupCompile.lref
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.exe
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\bin\Debug\Ejercicio 19.pdb
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\MainWindow.baml
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.g.resources
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio_19.Properties.Resources.resources
+D:\Users\alumno1718\Desktop\1º_DAM\Programacion_C#\Tema_9_WPF\Relacion_Ejercicios\Ejercicio 19\Ejercicio 19\obj\Debug\Ejercicio 19.csproj.GenerateResource.Cache

@@ -14,7 +14,7 @@ namespace Ejercicio_19
 	{
 		Button btn;
 
-		public Button Btn { get => btn; set => btn = value; }
+        public Button Btn { get { return btn; } set { btn = value; } }
 
 		public CBotones(int i, int j)
 		{
