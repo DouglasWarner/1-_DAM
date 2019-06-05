@@ -1,0 +1,13 @@
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\bin\Debug\Prestamos_Bancos.exe.config
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\Prestamos_Bancos.csprojResolveAssemblyReference.cache
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\MainWindow.baml
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\MainWindow.g.cs
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\App.g.cs
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\Prestamos_Bancos_MarkupCompile.cache
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\Prestamos_Bancos.g.resources
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\Prestamos_Bancos.Properties.Resources.resources
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\Prestamos_Bancos.csproj.GenerateResource.Cache
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\bin\Debug\Prestamos_Bancos.exe
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\bin\Debug\Prestamos_Bancos.pdb
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\Prestamos_Bancos.exe
+D:\Users\alumno1718\Desktop\Prestamos_Bancos\obj\Debug\Prestamos_Bancos.pdb
