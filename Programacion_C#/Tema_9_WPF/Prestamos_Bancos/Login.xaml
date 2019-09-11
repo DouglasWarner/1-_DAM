@@ -1,0 +1,12 @@
+﻿<Window x:Class="Prestamos_Bancos.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Login" Height="300" Width="421" PreviewKeyDown="Window_PreviewKeyDown_1">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="42,46,0,0" TextWrapping="Wrap" Text="Usuario" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="42,117,0,0" TextWrapping="Wrap" Text="Contraseña" VerticalAlignment="Top"/>
+        <TextBox Name="tbxNombre" Text="coral" HorizontalAlignment="Left" Height="23" Margin="149,45,0,0" VerticalAlignment="Top" Width="120"/>
+        <PasswordBox Name="pbxContraseña" Password="coral" HorizontalAlignment="Left" Height="23" Margin="149,116,0,0" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

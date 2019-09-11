@@ -1,0 +1,30 @@
+﻿<Window x:Class="Ejercicio_18.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Ejercicio_18"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Label Content="Jarra A" HorizontalAlignment="Left" Margin="56,38,0,0" VerticalAlignment="Top" Width="73"/>
+        <TextBox Name="tbxJarraA" HorizontalAlignment="Left" Height="31" Margin="112,42,0,0" TextWrapping="Wrap" Text="7" VerticalAlignment="Top" Width="84"/>
+        <Button Name="btnLlenarA" Content="Llenar" HorizontalAlignment="Left" Margin="54,99,0,0" VerticalAlignment="Top" Width="117" Height="39" Click="BtnLlenarA_Click"/>
+        <Button Name="btnVaciarA" Content="Vaciar" HorizontalAlignment="Left" Margin="54,143,0,0" VerticalAlignment="Top" Width="117" Height="39" Click="BtnVaciarA_Click"/>
+        <Button Name="AtoB" Content="--&gt;" HorizontalAlignment="Left" Margin="326,99,0,0" VerticalAlignment="Top" Width="115" Height="25" Click="AtoB_Click"/>
+        <Label Content="Jarra B" HorizontalAlignment="Left" Margin="538,38,0,0" VerticalAlignment="Top" Width="74"/>
+        <TextBox Name="tbxJarraB" HorizontalAlignment="Left" Height="31" Margin="612,42,0,0" TextWrapping="Wrap" Text="5" VerticalAlignment="Top" Width="84"/>
+        <Button Name="btnVaciarB" Content="Vaciar" HorizontalAlignment="Left" Margin="595,143,0,0" VerticalAlignment="Top" Width="117" Height="39" Click="BtnVaciarB_Click"/>
+        <Button Name="BtoA" Content="&lt;--" HorizontalAlignment="Left" Margin="326,129,0,0" VerticalAlignment="Top" Width="115" Height="20" Click="BtoA_Click_1"/>
+        <Button Name="btnFinalizar" Content="Finalizar" HorizontalAlignment="Left" Margin="326,154,0,0" VerticalAlignment="Top" Width="115" Height="25" Click="BtnFinalizar_Click"/>
+        <Button Name="btnLlenarB" Content="Llenar" HorizontalAlignment="Left" Margin="595,99,0,0" VerticalAlignment="Top" Width="117" Height="39" Click="BtnLlenarB_Click"/>
+        <Button Name="btnCrearJarras" Content="Crear Jarra" HorizontalAlignment="Left" Margin="326,25,0,0" VerticalAlignment="Top" Width="117" Height="39" Click="BtnCrearJarras_Click"/>
+        <ProgressBar Name="pgbJarraA" HorizontalAlignment="Left" Height="42" Margin="54,196,0,0" VerticalAlignment="Top" Width="272"/>
+        <ProgressBar Name="pgbJarraB" HorizontalAlignment="Left" Height="42" Margin="440,196,0,0" VerticalAlignment="Top" Width="272"/>
+        <ListBox Name="lbxResultado" HorizontalAlignment="Left" Height="109" Margin="56,258,0,0" VerticalAlignment="Top" Width="656"/>
+        <StatusBar Name="sbrMensaje" Height="30" FontWeight="Bold" VerticalAlignment="Bottom"/>
+        <Button Name="btnDemo" Content="Demo" VerticalAlignment="Bottom" HorizontalAlignment="Right" Margin="0,0,80,0" Width="100" Height="30" Click="BtnDemo_Click"/>
+
+    </Grid>
+</Window>

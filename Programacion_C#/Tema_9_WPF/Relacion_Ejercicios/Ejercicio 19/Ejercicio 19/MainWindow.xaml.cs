@@ -46,6 +46,11 @@ namespace Ejercicio_19
 			fila = int.Parse(cbxFilas.SelectedItem.ToString());
 			columna = int.Parse(cbxColumnas.SelectedItem.ToString());
 			CBotones btn;
+<<<<<<< HEAD
+=======
+            LineBreak saltoLinea = new LineBreak();
+            
+>>>>>>> casa/master
 
 			for (int i = 0; i < fila; i++)
 			{
@@ -53,7 +58,12 @@ namespace Ejercicio_19
 				{
 					btn = new CBotones(i, j);
 					stpMatriz.Children.Add(btn.Btn);
+<<<<<<< HEAD
 				}				
+=======
+				}
+                
+>>>>>>> casa/master
 			}
 		}
 		

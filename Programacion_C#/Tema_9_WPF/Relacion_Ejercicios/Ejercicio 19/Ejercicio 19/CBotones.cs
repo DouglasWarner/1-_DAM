@@ -14,7 +14,11 @@ namespace Ejercicio_19
 	{
 		Button btn;
 
+<<<<<<< HEAD
 		public Button Btn { get => btn; set => btn = value; }
+=======
+        public Button Btn { get { return btn; } set { btn = value; } }
+>>>>>>> casa/master
 
 		public CBotones(int i, int j)
 		{
